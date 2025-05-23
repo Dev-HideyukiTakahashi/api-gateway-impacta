@@ -1,0 +1,12 @@
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\ApiGatewayApplication.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\config\ModelMapperConfig.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\controller\PecaController.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\dto\ComponenteDto.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\dto\PecaDto.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\dto\PecaMinDto.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\exception\GlobalExceptionHandler.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\model\Componente.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\model\Peca.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\repository\ComponenteRepository.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\repository\PecaRepository.java
+C:\Users\Hideyuki\Desktop\api-gateway-impacta\src\main\java\br\com\impacta\api_gateway\service\PecaService.java

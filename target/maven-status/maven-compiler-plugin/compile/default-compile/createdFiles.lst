@@ -1,0 +1,12 @@
+br\com\impacta\api_gateway\repository\ComponenteRepository.class
+br\com\impacta\api_gateway\dto\PecaMinDto.class
+br\com\impacta\api_gateway\model\Componente.class
+br\com\impacta\api_gateway\exception\GlobalExceptionHandler.class
+br\com\impacta\api_gateway\controller\PecaController.class
+br\com\impacta\api_gateway\dto\PecaDto.class
+br\com\impacta\api_gateway\service\PecaService.class
+br\com\impacta\api_gateway\config\ModelMapperConfig.class
+br\com\impacta\api_gateway\ApiGatewayApplication.class
+br\com\impacta\api_gateway\dto\ComponenteDto.class
+br\com\impacta\api_gateway\repository\PecaRepository.class
+br\com\impacta\api_gateway\model\Peca.class
